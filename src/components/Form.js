@@ -213,6 +213,7 @@ const ResumeForm = () => {
         </Grid>
         <br></br>
       </form>
+      <br></br>
 
       <Modal
         ref={componentRef}

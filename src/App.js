@@ -24,6 +24,7 @@ function App() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
+          marginBottom: "20px",
         }}
       >
         <ResumeForm />

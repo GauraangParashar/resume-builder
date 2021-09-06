@@ -30,6 +30,7 @@ const Topbar = (props) => {
       >
         <Typography component="h1" variant="h4" noWrap>
           Resume Builder
+          <sup style={{ fontSize: "12px" }}>Built By Gauraang Parashar</sup>
         </Typography>
       </Navbar>
     </div>
